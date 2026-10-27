@@ -1,9 +1,0 @@
-name = "earnity-verify"
-main = "index.js"
-compatibility_date = "2026-10-01"
-keep_vars = true
-
-[[d1_databases]]
-binding = "DB"
-database_name = "earnityug-db-1"
-database_id = "9463caa5-a3df-47d2-a44f-a3cf80288dc0"
